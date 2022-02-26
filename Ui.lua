@@ -27,7 +27,7 @@ end
 
 if game:GetService("UserInputService").VREnabled then 
 	getParent = Parents[3]
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/projects/nexus_support.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/NeelKarkera/A-ui/main/CMD%20X"))()
 end
 
 Unnamed = Instance.new("ScreenGui", getParent)
